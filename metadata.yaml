@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7650
     wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28961#Cuore--Heart---An-Italian-Schoolboy-s-Journal
 gutenberg_issued: '2009-05-24'
 gutenberg_type: Text
 identifiers:
