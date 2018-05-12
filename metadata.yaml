@@ -1,0 +1,42 @@
+_repo: Cuore--Heart---An-Italian-Schoolboy-s-Journal_28961
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hapgood, Isabel Florence
+    alias: Hapgood, Isabel F.
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '33608'
+    url: http://www.gutenberg.org/2009/agents/33608
+    wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+covers:
+- cover_type: archival
+  image_path: 28961-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Amicis, Edmondo
+    aliases:
+    - Amicis, Edmondo de
+    - Amicis, Edmundo de
+    - Amichis, Edmondo de
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_issued: '2009-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family life -- Italy -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Diaries -- Juvenile fiction'
+- !lcsh 'Italy -- Juvenile fiction'
+title: 'Cuore (Heart): An Italian Schoolboy''s Journal'
+url: http://www.gutenberg.org/ebooks/28961
